@@ -1,4 +1,4 @@
-# Trading212TickersOdd1Out————Trading212 ⇄ Yahoo Finance Mapping Collection
+# Trading212TickersOdd1Out—Trading212 ⇄ Yahoo Finance Mapping Collection
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -79,6 +79,7 @@ The following situations cause mappings to deviate from the standard rules:
 | `2DGd_EQ` | `2DG.F` | Exchange suffix anomaly (expected .DE, got .F) |
 | `FLUIes_EQ` | `FDR.MC` | Ticker change (FLUI → FDR) |
 
+> The Reason Colummn was removed in the new update, to keep it more simple and clean
 > The full list is maintained in [`odd_mappings.csv`](./odd_mappings.csv).
 
 ## 🤝 How to Contribute
